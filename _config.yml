@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1119403
+color:
+  saturation: 1
+  lightness: 0.9766791
+  brandStrength: 0
+  rhythmicContrast: 0.7126865
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Gavrilles
