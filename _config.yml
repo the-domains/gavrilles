@@ -24,3 +24,6 @@ collections:
 layout_spectrum: 1
 typography_spectrum: 0.1119403
 name: Gavrilles
+author:
+  name: Steve Gavrilles
+  email: steve@gavrilles.com
